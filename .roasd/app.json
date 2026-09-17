@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "component": "__ROASD_COMPONENT__",
+  "component": "ro-app-smoke-test",
   "package_names": [
-    "__ROASD_PACKAGE__"
+    "ro-app-smoke-test"
   ],
   "fedora_release": 44,
   "architectures": [
